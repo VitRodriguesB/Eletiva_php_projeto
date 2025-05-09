@@ -11,3 +11,4 @@ try {
 } catch (PDOException $e){
     die("Erro ao conectar com o banco! ".$e->getMessage());
 }
+?>
