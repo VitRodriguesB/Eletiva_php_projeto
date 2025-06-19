@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-$dominio = 'mysql:host=localhost;dbname=projetophp';
+$dominio = 'mysql:host=localhost;dbname=restaurante_db';
 $usuario = 'root';
 $senha = '';
 
