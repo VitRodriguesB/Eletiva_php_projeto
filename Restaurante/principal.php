@@ -31,7 +31,7 @@ $usuario = $_SESSION['usuario'] ?? 'Usuário';
         </div>
 
         <div class="col-md-4 col-lg-3">
-            <a href="novo_cliente.php" class="text-decoration-none">
+            <a href="novo_usuario.php" class="text-decoration-none">
                 <div class="card text-center shadow h-100">
                     <div class="card-body">
                         <i class="fas fa-user-plus fa-2x text-dark"></i>
